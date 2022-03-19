@@ -1,2 +1,2 @@
 My first readme
-my nane is daniel
+my nane is daniels
